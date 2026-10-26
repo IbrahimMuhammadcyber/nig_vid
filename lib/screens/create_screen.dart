@@ -4,6 +4,7 @@ import '../app_state.dart';
 import '../theme.dart';
 import '../tools.dart';
 import '../widgets.dart';
+import 'editor_screen.dart';
 import 'workspace_screen.dart';
 
 class CreateScreen extends StatelessWidget {
@@ -22,6 +23,14 @@ class CreateScreen extends StatelessWidget {
               child: Text(s.t('common.close')),
             ),
           ],
+        ),
+      );
+      return;
+    }
+    if (tool.id == 'editor') {
+      Navigator.of(context).push(
+        MaterialPageRoute<void>(
+          builder: (BuildContext ctx) => const EditorScreen(),
         ),
       );
       return;
