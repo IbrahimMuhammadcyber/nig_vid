@@ -53,7 +53,6 @@ const List<ToolInfo> kTools = <ToolInfo>[
     icon: Icons.content_cut,
     titleKey: 'tool.editor',
     descKey: 'tool.editor.desc',
-    planned: true,
   ),
   ToolInfo(
     id: 'story',
