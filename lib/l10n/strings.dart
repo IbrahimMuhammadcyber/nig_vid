@@ -300,6 +300,77 @@ class Strings {
         'A tabbatar abin ya dace da shekarun yara, kuma kada a yi amfani da kamannin ainihin yaro.',
     'safety.claims': 'Kada a yi ƙarya game da kayan ko hidimar da ake tallatawa.',
   };
+}bayyana a nan.',
+    'projects.cloud':
+        'Ayyukan cikin gajimare suna buƙatar asusu, wanda bai samu ba tukuna.',
+
+    'templates.title': 'Samfura',
+    'templates.search': 'Nemi samfura',
+    'templates.none': 'Babu samfurin da ya dace da binciken ka.',
+    'templates.use': 'Yi amfani da samfurin',
+    'templates.aspect': 'Girman allo',
+    'templates.example': 'Misalin umarni (ana iya gyarawa)',
+    'templates.safety': 'Bayanin tsaro',
+
+    'profile.title': 'Bayani',
+    'profile.language': 'Harshe',
+    'profile.account': 'Asusu',
+    'profile.account.body':
+        "Shiga asusu bai samu ba tukuna. Wannan sigar tana ajiye bayanai a na'urarka kawai.",
+    'profile.pricing': 'Farashi',
+    'profile.pricing.body':
+        'Tsare-tsaren biya ba sa aiki. Ba a karɓar kuɗi.',
+    'profile.providers': 'Masu samar da AI',
+    'profile.providers.none': 'Ba a saita wani mai samarwa ba.',
+    'profile.about': 'Game da mu',
+    'profile.about.body':
+        'NIG_VID ba ta mallaka ko horar da samfuran AI ba. Ƙirƙira za ta yi amfani da samfuran wasu kamfanoni ko na kanka da ka saita, kuma za a rubuta haka a fili.',
+    'profile.version': 'Sigar app',
+
+    'cat.action': 'Fina-finan fafatawa',
+    'cat.trailer': 'Tallan fina-finai',
+    'cat.comedy': 'Barkwancin Hausa',
+    'cat.story': 'Bayar da labarin Hausa',
+    'cat.business': 'Tallan kasuwanci',
+    'cat.product': 'Nuna kayayyaki',
+    'cat.islamic': 'Ilimin addinin Musulunci',
+    'cat.kids': 'Ilimin yara',
+    'cat.doc': 'Shirin gaskiya',
+    'cat.social': 'Bidiyon sada zumunta',
+    'cat.fashion': 'Ado da kayan sawa',
+    'cat.music': 'Zanen kiɗa mai motsi',
+    'cat.motivation': 'Bidiyon ƙarfafa gwiwa',
+    'cat.events': 'Tallar taruka',
+
+    'ed.import.video': 'Ƙara bidiyo',
+    'ed.import.image': 'Ƙara hoto',
+    'ed.preview.empty': 'Ƙara bidiyo ko hoto domin farawa.',
+    'ed.timeline': 'Timeline',
+    'ed.timeline.empty':
+        'Timeline ɗinka babu komai. Ƙara bidiyo ko hotuna, sannan ka ja su domin sake tsara su.',
+    'ed.total': 'Clip {n}, jimillar tsawo {t}',
+    'ed.trim': 'Yanke (daga farko zuwa ƙarshe)',
+    'ed.duration': 'Tsawon hoto',
+    'ed.delete': 'Cire clip',
+    'ed.play': 'Kunna duka',
+    'ed.pause': 'Dakata',
+    'ed.export': 'Fitar da bidiyo',
+    'ed.export.note':
+        'Fitar da bidiyo da aka gama bai samu ba tukuna. Yana buƙatar injin ƙirƙirar bidiyo wanda ba a ƙara ba.',
+    'ed.session.note':
+        'Ba a ajiye timeline ɗinka. Zai ɓace idan ka rufe editan.',
+    'ed.local.note':
+        "Fayilolin suna zama a na'urarka. Ba a aika komai ba. Manyan bidiyo na iya ɗaukar ɗan lokaci kafin su buɗe.",
+    'ed.unreadable': 'Ba a iya buɗe wannan fayil ɗin ba:',
+
+    'safety.default':
+        'Kada a yi koyi da wani mutum na ainihi ba tare da izininsa ba.',
+    'safety.islamic':
+        'Kada a nuna annabawa ko wasu abubuwa masu tsarki. A nemi mai ilimi ya duba abin kafin a wallafa shi.',
+    'safety.kids':
+        'A tabbatar abin ya dace da shekarun yara, kuma kada a yi amfani da kamannin ainihin yaro.',
+    'safety.claims': 'Kada a yi ƙarya game da kayan ko hidimar da ake tallatawa.',
+  };
 }Game da mu',
     'profile.about.body':
         'NIG_VID ba ta mallaka ko horar da samfuran AI ba. Ƙirƙira za ta yi amfani da samfuran wasu kamfanoni ko na kanka da ka saita, kuma za a rubuta haka a fili.',
